@@ -34,3 +34,7 @@ cd Terrorism_analysis
 ```
 
 Open the Jupyter notebook EDA_terrorism code.ipynb to explore the analysis and insights.
+
+### Hotspots Map
+
+![Hotspots Map](hotspots_map.jpg)
