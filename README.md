@@ -25,7 +25,7 @@ pip install numpy pandas matplotlib seaborn nltk
 ## Usage
 Clone this repository to your local machine:
 ```
-git clone [https://github.com/InnaK342/terrorism-analysis.git](https://github.com/InnaK342/EDA-terrorism.git)
+git clone [[https://github.com/InnaK342/terrorism-analysis.git](https://github.com/InnaK342/EDA-terrorism.git)](https://github.com/InnaK342/Terrorism-analysis.git)
 ```
 
 Navigate to the repository directory:
