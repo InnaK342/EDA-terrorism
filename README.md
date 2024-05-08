@@ -25,12 +25,12 @@ pip install numpy pandas matplotlib seaborn nltk
 ## Usage
 Clone this repository to your local machine:
 ```
-git clone [[https://github.com/InnaK342/terrorism-analysis.git](https://github.com/InnaK342/EDA-terrorism.git)](https://github.com/InnaK342/Terrorism-analysis.git)
+git clone https://github.com/InnaK342/terrorism-analysis.git
 ```
 
 Navigate to the repository directory:
 ```
-cd EDA-terrorism
+cd Terrorism_analysis
 ```
 
 Open the Jupyter notebook EDA_terrorism code.ipynb to explore the analysis and insights.
